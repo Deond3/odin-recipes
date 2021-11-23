@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: lightblue;
+    color: darkblue;
+}
+
+h4 {
+    color: yellowgreen;
+}
+
+img {
+    border-radius: 25px;
+    border: 2px solid black;
+}
